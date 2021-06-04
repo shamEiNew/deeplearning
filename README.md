@@ -1,6 +1,6 @@
 # ntbook
 Collection of notebooks from various topics.
-# nttheory 
+## nttheory 
 It has mostly number theoretic related material.
-# deeplearn
+## deeplearn
 Deep learning materials.
